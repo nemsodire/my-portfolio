@@ -29,4 +29,9 @@ h2{
     margin-left: 500px;
     font: italic;
 }
-
+ul{
+    list-style-position: inside;
+}
+li[
+    
+]
